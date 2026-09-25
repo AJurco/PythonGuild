@@ -1,0 +1,18 @@
+# own
+.vscode/
+*.csv
+*.png
+*.jpg
+log/
+.pytest_cache/
+**/catalog/**/*.parquet
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+testing.ipynb
+
+# Include
+!tests/data/**
