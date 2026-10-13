@@ -1,7 +1,5 @@
 # own
 .vscode/
-*.csv
-*.png
 *.jpg
 log/
 .pytest_cache/

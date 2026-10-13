@@ -1,0 +1,5 @@
+ipykernel
+seaborn>=0.13.2
+
+[dev]
+ruff
